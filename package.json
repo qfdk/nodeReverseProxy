@@ -1,0 +1,26 @@
+{
+  "name": "nodereverseproxy",
+  "version": "1.0.0",
+  "description": "Node.js reverse proxy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qfdk/nodeReverseProxy.git"
+  },
+  "keywords": [
+    "Reverse",
+    "Proxy"
+  ],
+  "author": "qfdk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qfdk/nodeReverseProxy/issues"
+  },
+  "homepage": "https://github.com/qfdk/nodeReverseProxy#readme",
+  "dependencies": {
+    "http-proxy": "^1.16.2"
+  }
+}
